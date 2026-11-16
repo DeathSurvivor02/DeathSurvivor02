@@ -42,8 +42,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeathSurvivor02&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurvivor02&layout=compact&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats-tau-mauve-82.vercel.app/api?username=DeathSurvivor02&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-tau-mauve-82.vercel.app/api/top-langs/?username=DeathSurvivor02&layout=compact&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="Most Used Languages" />
 </div>
 
 ---
