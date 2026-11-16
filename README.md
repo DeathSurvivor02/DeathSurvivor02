@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ean;Software+Developer+%7C+Toronto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ean;Software+Developer+%7C+Toronto" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,8 +42,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeathSurvivor02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurvivor02&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeathSurvivor02&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurvivor02&layout=compact&bg_color=0c0e13&title_color=60a5fa&icon_color=fb7185&text_color=f1f5f9&border_color=1e222d" alt="Most Used Languages" />
 </div>
 
 ---
@@ -51,13 +51,13 @@
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeathSurvivor02&theme=rogue&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeathSurvivor02&bg_color=0c0e13&color=60a5fa&line=2563eb&point=fb7185&area=true&area_color=2563eb&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-## Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
 </div>
